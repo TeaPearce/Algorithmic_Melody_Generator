@@ -1,4 +1,4 @@
-# Algorithmic microtonal melody generator
+# Algorithmic melody generator - with [microtonal](https://en.wikipedia.org/wiki/Microtonal_music) capabilities
 
 ## Intro
 
